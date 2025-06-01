@@ -1,2 +1,2 @@
-# Galochka-
-Galochka🌐
+# instaBot
+instagramBot
